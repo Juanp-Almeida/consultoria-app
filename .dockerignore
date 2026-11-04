@@ -1,0 +1,15 @@
+.agents
+.claude
+.codex
+.git
+.github
+.next
+.obsidian
+Segundo Cérebro
+Bem-vindo.md
+docs
+graphify-out
+node_modules
+.env*
+*.log
+*.tsbuildinfo
